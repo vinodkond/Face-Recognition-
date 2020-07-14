@@ -2,11 +2,11 @@ import numpy as np
 import json
 import cv2
 from flask import Flask, request, render_template, redirect, jsonify
-
-# import base64
-# from imageio import imread
 # import io
+# import base64
+#from imageio import imread
 # import face_recognition
+
 
 
 
